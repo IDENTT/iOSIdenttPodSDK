@@ -10,7 +10,7 @@
 		</data>
 		<key>Headers/IdenttCamera-Swift.h</key>
 		<data>
-		g00DmmZRlXSgUDohnt8t9KACVGY=
+		YqmMdp5i1kasNgli3iuoGT7UCiA=
 		</data>
 		<key>Headers/IdenttCamera.h</key>
 		<data>
@@ -26,27 +26,27 @@
 		</data>
 		<key>Modules/IdenttCamera.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		9oZSv5IIOOZ3f1h8mbK+J2Assbk=
+		u2NFqp04ixznfoaPxNcfN2NMmuI=
 		</data>
 		<key>Modules/IdenttCamera.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<data>
-		9oZSv5IIOOZ3f1h8mbK+J2Assbk=
+		u2NFqp04ixznfoaPxNcfN2NMmuI=
 		</data>
 		<key>Modules/IdenttCamera.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		BbmoUfENy+DwqH4dhHltlGmScvE=
+		opWOj7OXIM28io9V7c/w88l5xoE=
 		</data>
 		<key>Modules/IdenttCamera.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		SqhokojsXn9rh37Hm9+5WH4pY7Y=
+		rxhRlQPNCIrWcyWIOUyxxEI+aFo=
 		</data>
 		<key>Modules/IdenttCamera.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		BbmoUfENy+DwqH4dhHltlGmScvE=
+		opWOj7OXIM28io9V7c/w88l5xoE=
 		</data>
 		<key>Modules/IdenttCamera.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		SqhokojsXn9rh37Hm9+5WH4pY7Y=
+		rxhRlQPNCIrWcyWIOUyxxEI+aFo=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -59,7 +59,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			O/zMyzNoUZyEsk32i/jyc9YeCzaCq93UTrLfXhVripE=
+			pOAZt7fyQGQaNpUgr4r8+yve/N/anzBu2T+67JcF4eA=
 			</data>
 		</dict>
 		<key>Headers/IdenttCamera.h</key>
@@ -73,42 +73,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			iE6LUT9Rk6uKB2vSchVgOF3ALjPDaVy/FiWLbdwqS5E=
+			e+2uOgvT9kCe02JBiUQZbEAslnPAGELj6HCeldEafeU=
 			</data>
 		</dict>
 		<key>Modules/IdenttCamera.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			iE6LUT9Rk6uKB2vSchVgOF3ALjPDaVy/FiWLbdwqS5E=
+			e+2uOgvT9kCe02JBiUQZbEAslnPAGELj6HCeldEafeU=
 			</data>
 		</dict>
 		<key>Modules/IdenttCamera.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hY1M0lb6h32LjSS4ULT+VLSV7v2OCGP89d2GKGTfO+I=
+			ndPplGUb63hh1EwUsV21JG0j1cPt8eefzSD2w9v2Zfo=
 			</data>
 		</dict>
 		<key>Modules/IdenttCamera.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LO1K4cp2PfA/dzvRt2L7kmGakKGQsZ0AtMsNFkhJTNY=
+			y5Tpm3ZkzoDmCDwve3qiE01pNcZllF7R+KJfv18hV7g=
 			</data>
 		</dict>
 		<key>Modules/IdenttCamera.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hY1M0lb6h32LjSS4ULT+VLSV7v2OCGP89d2GKGTfO+I=
+			ndPplGUb63hh1EwUsV21JG0j1cPt8eefzSD2w9v2Zfo=
 			</data>
 		</dict>
 		<key>Modules/IdenttCamera.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LO1K4cp2PfA/dzvRt2L7kmGakKGQsZ0AtMsNFkhJTNY=
+			y5Tpm3ZkzoDmCDwve3qiE01pNcZllF7R+KJfv18hV7g=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

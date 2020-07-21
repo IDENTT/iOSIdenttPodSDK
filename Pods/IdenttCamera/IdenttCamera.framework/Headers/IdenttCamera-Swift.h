@@ -291,6 +291,20 @@ SWIFT_CLASS("_TtC12IdenttCamera22SICVideoViewController")
 @end
 
 
+@interface SICViewController (SWIFT_EXTENSION(IdenttCamera))
+/// Predefines rectangle of interest for detecting facial marks
+/// important:
+/// Override/subclass that function before calling <code>prepare()</code>, to make sure that it’s used.
+///
+/// returns:
+///
+/// <ul>
+///   <li>
+///     CGRect that is describing origin (top left corner in percentages) and size (width and height in percentages). 0.0 = 0%, …,  1.0 = 100%.
+///   </li>
+/// </ul>
+- (CGRect)setRectOfInterest SWIFT_WARN_UNUSED_RESULT;
+@end
 
 
 
