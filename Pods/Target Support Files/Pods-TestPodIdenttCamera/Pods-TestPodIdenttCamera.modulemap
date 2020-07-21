@@ -1,0 +1,6 @@
+framework module Pods_TestPodIdenttCamera {
+  umbrella header "Pods-TestPodIdenttCamera-umbrella.h"
+
+  export *
+  module * { export * }
+}

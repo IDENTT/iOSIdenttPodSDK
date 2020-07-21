@@ -1,0 +1,11 @@
+framework module IdenttCamera {
+  umbrella header "IdenttCamera.h"
+
+  export *
+  module * { export * }
+}
+
+module IdenttCamera.Swift {
+    header "IdenttCamera-Swift.h"
+    requires objc
+}

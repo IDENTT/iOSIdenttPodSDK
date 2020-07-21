@@ -1,0 +1,16 @@
+PODS:
+  - IdenttCamera (1.0.1)
+
+DEPENDENCIES:
+  - IdenttCamera (= 1.0.1)
+
+SPEC REPOS:
+  trunk:
+    - IdenttCamera
+
+SPEC CHECKSUMS:
+  IdenttCamera: 2de3bd1e81fc56682ebab2f80c5ad0be2b62e22e
+
+PODFILE CHECKSUM: 96b81c024b8dfe80c364a27720a81f813700f68f
+
+COCOAPODS: 1.9.3
