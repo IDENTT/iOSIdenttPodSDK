@@ -1,0 +1,11 @@
+framework module IdenttAPI {
+  umbrella header "IdenttAPI.h"
+
+  export *
+  module * { export * }
+}
+
+module IdenttAPI.Swift {
+    header "IdenttAPI-Swift.h"
+    requires objc
+}

@@ -197,9 +197,11 @@ if [ -r "${ARTIFACT_LIST_FILE}" ]; then
 fi
 
 if [[ "$CONFIGURATION" == "Debug" ]]; then
+  install_framework "${PODS_ROOT}/IdenttAPI/IdenttAPI.framework"
   install_framework "${PODS_ROOT}/IdenttCamera/IdenttCamera.framework"
 fi
 if [[ "$CONFIGURATION" == "Release" ]]; then
+  install_framework "${PODS_ROOT}/IdenttAPI/IdenttAPI.framework"
   install_framework "${PODS_ROOT}/IdenttCamera/IdenttCamera.framework"
 fi
 if [ "${COCOAPODS_PARALLEL_CODE_SIGN}" == "true" ]; then
