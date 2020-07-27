@@ -8,5 +8,6 @@ target 'TestPodIdenttCamera' do
   # Pods for TestPodIdenttCamera
 
   pod 'IdenttCamera', '1.0.2'
+  pod 'IdenttAPI', '1.0.0'
 
 end
